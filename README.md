@@ -1,1 +1,2 @@
 # Apex-Mobs
+This is a mod for Minecraft 1.12 that focuses on adding more dangerous mobs to the game. The concept behind these mobs is that they are variants of vanilla mobs that have 'evolved' much more dangerous abilities. At the top of this hierarchy resides the "Apex Mobs", which are extremely dangerous boss-level mobs. As a player, this mod will make survival a much greater challenge, but hunting down these variant mobs can also lead to powerful rewards.
