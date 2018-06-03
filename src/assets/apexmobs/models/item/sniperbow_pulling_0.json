@@ -1,0 +1,6 @@
+{
+    "parent": "apexmobs:item/sniperbow",
+    "textures": {
+        "layer0": "apexmobs:items/sniperbow_pulling_0"
+    }
+}

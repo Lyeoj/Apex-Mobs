@@ -1,0 +1,22 @@
+{
+	"sniperskeleton.shoot": {
+		"category": "hostile",
+		"subtitle": "subtitle.sniperShoot",
+		"sounds": [ "apexmobs:sniper/sniperbow" ]
+	},
+	"sniperskeleton.prepare": {
+		"category": "hostile",
+		"subtitle": "subtitle.sniperPrepare",
+		"sounds": [ "apexmobs:sniper/sniperprepare" ]
+	},
+	"charging": {
+		"category": "master",
+		"subtitle": "subtitle.charging",
+		"sounds": [ "apexmobs:prezap" ]
+	},
+	"zapped": {
+		"category": "master",
+		"subtitle": "subtitle.zapped",
+		"sounds": [ "apexmobs:zap" ]
+	}
+}

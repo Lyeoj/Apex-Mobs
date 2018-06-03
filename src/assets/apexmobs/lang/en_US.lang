@@ -1,0 +1,58 @@
+death.attack.possessed=%1$s lost their mind
+death.attack.electric=%1$s was electrocuted
+death.attack.acid=%1$s dissolved
+
+effect.waterlogged=Waterlogged
+effect.possessed=Possessed
+effect.frozen=Frozen
+effect.tarred=Tarred
+effect.zapped=Zapped
+effect.inked=Inked
+effect.waterwalking=Super Buoyancy
+effect.muddy=Muddied
+
+entity.testmob.name=Test Mob
+entity.wanderingfeesh.name=Wandering Silverfish
+entity.flinger.name=Accelerator
+entity.sniperskeleton.name=Sniper Skeleton
+entity.rocketcreeper.name=Rocket Creeper
+entity.strayguardian.name=Stray Guardian
+entity.hungryslime.name=Hungry Slime
+entity.shadow.name=Shadow
+entity.madscientist.name=Mad Scientist
+entity.giantsquid.name=Giant Squid
+entity.apexslime.name=Apex Slime
+entity.apexslimeminion.name=Apex Slime Minion
+entity.apexfeesh.name=Apex Silverfish
+entity.apexfeeshminion.name=Apex Silverfish Minion
+entity.inferno.name=Inferno
+
+item.silvershell.name=Dirty Silver Shell
+item.monsterbook.name=Hunter's Notes
+item.hungryslimeball.name=Hungry Slimeball
+item.hungryslimeballbig.name=Nutrient-filled Slimeball
+item.nutrients.name=Condensed Nutrients
+item.potionbase.name=Apex Potion Base
+item.potionwaterlogged.name=Potion of Drowning
+item.potionwaterloggedlingering.name=Lingering Potion of Drowning
+item.potionzap.name=Stored Charge Bottle
+item.potionzaplingering.name=Lingering Charge Bottle
+item.potionzapsplash.name=Splash Charge Bottle
+item.potionpossession.name=Ingestible Shadow in a Bottle
+item.potionpossessionsplash.name=Throwable Shadow in a Bottle
+
+potion.effect.amhaste=Potion of Haste
+splash_potion.effect.amhaste=Splash Potion of Haste
+lingering_potion.effect.amhaste=Lingering Potion of Haste
+potion.effect.amhastestrong=Potion of Haste
+splash_potion.effect.amhastestrong=Splash Potion of Haste
+lingering_potion.effect.amhastestrong=Lingering Potion of Haste
+
+tile.mudlayer.name=Thick Mud
+tile.tarlayer.name=Tar Puddle
+
+subtitle.sniperShoot=Sniper Skeleton Shoots
+subtitle.sniperPrepare=Sniper Skeleton Aiming
+subtitle.charging=Charge Building
+subtitle.zapped=Zap!
+
